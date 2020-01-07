@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## DFile design graph
+
+![flow graph](assets/images/image_01.jpeg)
+
+
+
+![state graph](assets/images/image_02.jpeg)
+
 ## Available Scripts
 
 In the project directory, you can run:

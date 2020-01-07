@@ -4,12 +4,19 @@ import Signin from './Signin.js';
 import {
   UserSession,
   AppConfig
-} from 'blockstack';
+} from 'blockstack';  
 
 const appConfig = new AppConfig()
 const userSession = new UserSession({ appConfig: appConfig })
 
 export default class App extends Component {
+
+  constructor(){
+    super();
+    console.log(appConfig);
+    console.log(userSession);
+    
+  }
 
 
   handleSignIn(e) {

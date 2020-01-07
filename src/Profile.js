@@ -24,6 +24,7 @@ export default class Profile extends Component {
   render() {
     const { handleSignOut, userSession } = this.props;
     const { person } = this.state;
+    console.log(person);
     return (
       !userSession.isSignInPending() ?
       <div className="panel-welcome" id="section-2">

@@ -4,12 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Demo on netlify](https://agitated-austin-ee47cb.netlify.com/)
 
-| image 1 | image 2 |
-|---------|---------|
-|  ![flow graph](assets/images/image_01.jpeg)| ![state graph](assets/images/image_02.jpeg) |
+![flow graph](assets/images/image_01.jpeg)
 
-
-
+![state graph](assets/images/image_02.jpeg)
 
 
 ## Available Scripts
